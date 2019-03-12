@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMV3", "ATMV3\ATMV3.csproj", "{729B5710-AB36-4BBB-A878-48E0E1309D40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMV3.Test.Unit", "ATMV3.Test.Unit\ATMV3.Test.Unit.csproj", "{D1667236-9832-4640-862E-95B82C8EBC15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{729B5710-AB36-4BBB-A878-48E0E1309D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729B5710-AB36-4BBB-A878-48E0E1309D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729B5710-AB36-4BBB-A878-48E0E1309D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1667236-9832-4640-862E-95B82C8EBC15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1667236-9832-4640-862E-95B82C8EBC15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1667236-9832-4640-862E-95B82C8EBC15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1667236-9832-4640-862E-95B82C8EBC15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
