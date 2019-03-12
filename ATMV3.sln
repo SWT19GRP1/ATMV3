@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMV3", "ATMV3\ATMV3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMV3.Test.Unit", "ATMV3.Test.Unit\ATMV3.Test.Unit.csproj", "{D1667236-9832-4640-862E-95B82C8EBC15}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA04F324-D96C-4629-8C49-81CA71304C7A}"
+	ProjectSection(SolutionItems) = preProject
+		TransponderReceiver.dll = TransponderReceiver.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
